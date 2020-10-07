@@ -1,5 +1,5 @@
 {
-  "name": "gpnote",
+  "name": "gpnote2",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "zcyue <973294528@qq.com>",
@@ -28,5 +28,6 @@
   },
   "dependencies": {
     "babel-core": "^6.26.3"
-  }
+  },
+  "gitHead": "5c7723eb9822aeda7a3a65add46cd835350102ef"
 }

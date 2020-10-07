@@ -1,5 +1,5 @@
 {
-  "name": "daybyday",
+  "name": "gpnode2",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.26.3"
-  }
+  },
+  "gitHead": "5c7723eb9822aeda7a3a65add46cd835350102ef"
 }
