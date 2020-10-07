@@ -1,0 +1,32 @@
+{
+  "name": "gpnote",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "zcyue <973294528@qq.com>",
+  "homepage": "https://github.com/ZhiCYue/lerna-gp#readme",
+  "license": "ISC",
+  "main": "lib/gpnote.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhiCYue/lerna-gp.git"
+  },
+  "scripts": {
+    "echo": "echo \"hello\""
+  },
+  "bugs": {
+    "url": "https://github.com/ZhiCYue/lerna-gp/issues"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3"
+  }
+}
